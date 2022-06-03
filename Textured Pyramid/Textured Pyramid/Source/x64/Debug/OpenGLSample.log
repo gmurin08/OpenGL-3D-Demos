@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\Gino\Projects\C++\OpenGL-3D-Demos\Textured Pyramid\Textured Pyramid\Source\glad.c(25,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
